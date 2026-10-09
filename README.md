@@ -101,6 +101,16 @@ Tuberculosis is the most frequently recorded disease among the five diseases ana
 
 Paracetamol is the most frequently recorded medication among the five medications analyzed.
 
+## 📁 Repository Contents
+
+| File | Description |
+|---|---|
+| `README.md` | Project overview, methodology, tools, and key findings. |
+| `process.pdf` | Documents the complete project workflow and steps performed. |
+| `cleaned patient dataset.csv` | Cleaned healthcare dataset in CSV format. |
+| `dataset 2_messy_patients.xlsx` | Raw healthcare dataset containing messy records and duplicates. |
+| `dataset_cleaned_messy_patient.xlsx` | Final cleaned healthcare dataset in Excel format. |
+
 ## 💡 Key Learnings
 
 - Understanding the importance of data quality in healthcare analytics.
